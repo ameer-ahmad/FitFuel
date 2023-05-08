@@ -88,3 +88,12 @@ Note: Before running the app, make sure to replace `<your-mongodb-uri>` with you
 
 That's it! You now have a fully-functional copy of the app running on your own machine, and you can customize it and add your own features as desired.
 
+## Screenshots
+
+The Food section of the App
+
+![2](public/screenshot2.png)
+
+Mobile version of the App
+
+![3](public/screenshot3.png)
