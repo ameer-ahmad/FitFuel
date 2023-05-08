@@ -4,7 +4,7 @@ FitFuel is your all in one app to track both your workouts and your meals!
 
 View the deployed app here: https://fit-fuel.netlify.app/
 
-![1](frontend/public/screenshot1.png)
+![1](public/screenshot1.png)
 
 ## Project Description
 
